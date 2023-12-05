@@ -1,6 +1,6 @@
 #include <string.h>
 
-#include <hydrogen.h>
+#include <../libhydrogen/hydrogen.h>
 
 #include <lua.h>
 #include <lauxlib.h>
