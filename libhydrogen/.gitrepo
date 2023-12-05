@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/jedisct1/libhydrogen
+	branch = master
+	commit = ec9f07198cb65de0fd6d3dccf2b5917746e088a6
+	parent = 90de3b57fa6124a3d5d237872123847fc8890a9c
+	method = merge
+	cmdver = 0.4.6
