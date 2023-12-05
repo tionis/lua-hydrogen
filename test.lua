@@ -15,7 +15,7 @@ do
 	local hash = hydrogen.hash
 	local state = hash.init("8bytectx", "some_32_byte_key________________")
 	state:update("some data")
-	print(state:final())
+	print("hashing.state:final()=" .. state:final())
 end
 
 do
